@@ -1,0 +1,185 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/f:App.config" caret="0" fromTop="0" />
+      <File id="33915A54-FEA3-4EA5-8562-A4D2AEF90956/f:App.config" caret="533" fromTop="8" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/f:Program.cs" caret="0" fromTop="0" />
+      <File id="33915A54-FEA3-4EA5-8562-A4D2AEF90956/f:TwitterStreamReaderTest.cs" caret="2100" fromTop="31" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2657" fromTop="23" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="136" fromTop="4" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:status.cs" caret="176" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="2261" fromTop="102" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="2261" fromTop="6" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="2261" fromTop="3" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:status.cs" caret="1444" fromTop="67" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="2261" fromTop="101" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="273" fromTop="8" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:status.cs" caret="176" fromTop="6" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/d:DataContracts/f:user.cs" caret="177" fromTop="6" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="3276" fromTop="47" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="3425" fromTop="43" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="4162" fromTop="48" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="1997" fromTop="15" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="3478" fromTop="48" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2277" fromTop="24" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="3909" fromTop="9" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/f:App.config" caret="515" fromTop="5" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/f:App.config" caret="176" fromTop="3" />
+      <File id="33915A54-FEA3-4EA5-8562-A4D2AEF90956/f:App.config" caret="0" fromTop="0" />
+      <File id="33915A54-FEA3-4EA5-8562-A4D2AEF90956/f:App.config" caret="533" fromTop="8" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="640" fromTop="7" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="3563" fromTop="50" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="1945" fromTop="39" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="898" fromTop="30" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="344" fromTop="11" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2186" fromTop="37" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="1443" fromTop="19" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2696" fromTop="14" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2696" fromTop="14" />
+      <File id="CA4FDD16-D512-4D12-A140-A506B19AEB41/d:TwitterService/f:TwitterStreamReader.cs" caret="2883" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="7" />
+      <Item value="System" priority="6" />
+      <Item value="ServiceModel" priority="0" />
+      <Item value="Net" priority="0" />
+      <Item value="Hammock" priority="1" />
+      <Item value="Authentication" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="var" priority="13" />
+      <Item value="new" priority="9" />
+      <Item value="RestClient`0" priority="0" />
+      <Item value="Authority" priority="0" />
+      <Item value="VersionPath" priority="0" />
+      <Item value="RestRequest`0" priority="0" />
+      <Item value="Path" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="StreamReader`0" priority="2" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="HttpWebRequest`0" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="WebRequest`0" priority="1" />
+      <Item value="streamUrl" priority="2" />
+      <Item value="webRequest" priority="6" />
+      <Item value="NetworkCredential`0" priority="1" />
+      <Item value="user" priority="0" />
+      <Item value="pass" priority="0" />
+      <Item value="HttpWebResponse`0" priority="1" />
+      <Item value="Encoding`0" priority="1" />
+      <Item value="Text" priority="0" />
+      <Item value="webResponse" priority="1" />
+      <Item value="encode" priority="0" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="responseStream" priority="2" />
+      <Item value="ConsoleTraceListener`0" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="Queue" priority="1" />
+      <Item value="resultQueue" priority="0" />
+      <Item value="Status`0" priority="1" />
+      <Item value="json" priority="0" />
+      <Item value="stream" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="WebException`0" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="ProtocolError" priority="0" />
+      <Item value="NetTcpStyleUriParser`0" priority="0" />
+      <Item value="wait" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="OAuth" priority="10" />
+      <Item value="OAuthRequest`0" priority="3" />
+      <Item value="OAuthRequest" priority="1" />
+      <Item value="r" priority="8" />
+      <Item value="OAuthTools`0" priority="2" />
+      <Item value="OAuthRequestType`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="DotNetOpenAuth" priority="3" />
+      <Item value="ConsumerBase`0" priority="0" />
+      <Item value="DesktopConsumer`0" priority="1" />
+      <Item value="DesktopConsumer" priority="0" />
+      <Item value="request" priority="3" />
+      <Item value="Console`0" priority="1" />
+      <Item value="Messaging" priority="0" />
+      <Item value="Messages" priority="0" />
+      <Item value="AccessProtectedResourceRequest`0" priority="0" />
+      <Item value="CredentialCache`0" priority="0" />
+      <Item value="jsonText" priority="0" />
+      <Item value="Debug`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="Credentials" priority="1" />
+      <Item value="Timeout" priority="0" />
+      <Item value="GetResponse`0" priority="0" />
+      <Item value="Headers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="GetEncoding`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="EndOfStream" priority="1" />
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="ReadToEnd`0" priority="0" />
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Enqueue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Json.DataContractJsonSerializer">
+      <Item value="ReadObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebException">
+      <Item value="Status" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OAuth.OAuthRequest">
+      <Item value="ForProtectedResource`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@OAuth.OAuthRequestType">
+      <Item value="AccessToken" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OAuth.OAuthRequest">
+      <Item value="Token" priority="0" />
+      <Item value="TokenSecret" priority="0" />
+      <Item value="ConsumerKey" priority="0" />
+      <Item value="ConsumerSecret" priority="0" />
+      <Item value="GetAuthorizationHeader`0" priority="1" />
+      <Item value="Method" priority="0" />
+      <Item value="RequestUrl" priority="1" />
+      <Item value="CallbackUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
