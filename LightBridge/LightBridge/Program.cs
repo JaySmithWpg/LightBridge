@@ -1,4 +1,7 @@
-﻿using System.ServiceProcess;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
 
 namespace LightBridge
 {
@@ -7,10 +10,12 @@ namespace LightBridge
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        [STAThread]
         static void Main()
         {
-            ServiceBase[] servicesToRun = new ServiceBase[] { new LightBridge() };
-            ServiceBase.Run(servicesToRun);
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new LightGui());
         }
     }
 }

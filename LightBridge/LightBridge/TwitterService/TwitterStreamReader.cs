@@ -30,6 +30,11 @@ namespace LightBridge.TwitterService
         private bool m_running;
         private Thread m_worker;
 
+        public bool Running
+        {
+            get { return m_running;}
+        }
+
         public TwitterStreamReader(XmlObjectSerializer jsonSerializer)
         {
             m_jsonSerializer = jsonSerializer;
