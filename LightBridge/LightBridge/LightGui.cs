@@ -14,23 +14,27 @@ namespace LightBridge
     public partial class LightGui : Form
     {
         private readonly TwitterStreamReader m_reader = new TwitterStreamReader(new DataContractJsonSerializer(typeof(Status)));
-        private string m_test;
+        private string m_port;
 
         public LightGui()
         {
             InitializeComponent();
             m_reader.OnStatusRecieved += OnStatusRecieve;
+
+            var portNames = SerialPort.GetPortNames();
+            cboComPorts.Items.AddRange(portNames);
         }
 
         private void OnStatusRecieve(Status status)
         {
             if (!String.IsNullOrEmpty(status.text))
             {
-                var port = new SerialPort(m_test);
+                var port = new SerialPort(m_port);
                 var upperCaseStatus = status.text.ToUpper();
 
                 using (port)
                 {
+                    port.Open();
                     if (upperCaseStatus.Contains("RED") || upperCaseStatus.Contains("GREEN") || upperCaseStatus.Contains("YELLOW"))
                     {
                         port.Write("C");
@@ -50,6 +54,7 @@ namespace LightBridge
                             port.Write("Y");
                         }
                     }
+                    port.Close();
                 }
             }
         }
@@ -59,11 +64,15 @@ namespace LightBridge
             if (m_reader.Running)
             {
                 m_reader.Abort();
+                cboComPorts.Enabled = true;
+                cmdConnect.Text = "Connect";
             }
             else
             {
-                m_test = cboComPorts.Text;
+                m_port = cboComPorts.Text;
                 m_reader.ProcessStream();
+                cboComPorts.Enabled = false;
+                cmdConnect.Text = "Disconnect";
             }
         }
 
